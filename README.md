@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Main code in Master branch
-=======
-# project-great-team
->>>>>>> origin/master
 
 Breast Cancer Diagnosis Prediction
 1. Overview
